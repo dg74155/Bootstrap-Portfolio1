@@ -1,0 +1,267 @@
+/*begin css here*/
+html {width: 960px}
+	
+body {width: 650px;
+	background: #ffffff;
+	border-color: #dddddd;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 0px;
+	background-image: url("C:\Users\Derek\Desktop\Basic-Portfolio\Assets\Images\ep_naturalwhite.png");
+	height: 100%;
+	background-image: url("../images/ep_naturalwhite.png");}
+
+header {background-color: white;}
+
+
+
+h1 {background-color: #4aaaa5;
+	width:33%;
+	text-align: center;
+	color: white;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	vertical-align: center;
+	font-family: 'georgia', times, "Times New Roman", Serif;
+	border-color: #cccccc;
+	font-size: 20px;
+	border-left:30px;
+	margin-left:33%;
+	border-bottom-color: black;
+	margin-top: 0px;
+	float: left;
+	overflow: auto}
+	
+
+#about {float: right;
+		position: relative; left: 250px; top: 50px;
+		font-family: 'georgia', times, 'times new roman', serif;
+		color: gray;
+		text-decoration: none;
+		overflow: auto}
+
+#port {float: right;
+		position: relative;
+		left: 400px; top: 50px;
+		font-family: 'georgia', times, 'times new roman', serif;
+		color: gray;
+		text-decoration: none;
+		overflow: auto}
+
+#con {float: right;
+	  position: relative; left: 535px; top: 50px; 
+	  font-family: 'georgia', times, 'times new roman', serif; 
+	  color: gray;
+	  text-decoration: none;
+		overflow: auto}
+
+#selfie {width: 33%;
+		height: 33%;
+		padding-left: 20px;
+		float: left;
+		padding-right: 20px;
+		padding-bottom: 20px;}
+#info {font-weight: bold;
+		font-family: 'georgia', times, "times new roman", serif;
+		color: #4aaaa5;
+		border-bottom-color: solid;
+		padding-left: 40px;}
+#aboutme {border: solid;
+		border-color: gray;
+		margin-left: 33%;
+		width: 500px;
+		overflow:auto;
+		background-color: white;}
+
+p {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 30px;
+	color: #777777;}
+
+
+#connect {float: right;
+		border-style: solid;
+		border-color: #dddddd;
+		position: relative;
+		left: 400px;
+		bottom: 725px;
+		padding: 20px;
+		padding-top: 10px;
+		overflow: auto;
+		background-color: white;}
+
+#htwo {color: #4aaaa5;
+	font-family: 'georgia', times, 'times new roman', serif;
+	font-size: 20px;}
+
+#fb {width: 50px;
+	height: 50px;
+	padding-right: 5px;}
+
+#linkd {width: 50px;
+		height: 50px}
+
+#git {width: 50px;
+	  height: 50px}
+
+footer {text-align: center;
+		background-color: #666666;
+		width: 1250px;
+		margin-bottom: 0px;
+		border-top: solid;
+		border-color: #4aaaa5;
+		margin-top: 20px;
+		border-width: 5px;
+		}
+
+#foot {text-align: center;
+	color: white;
+	padding-left: 300px;
+	padding-top: 5px;
+	}
+#form {float: left;
+	overflow: auto;
+	width: 75%;
+	border: solid;
+	margin-left: 25%;
+	padding-left:25px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	border-color: #dddddd;
+	background-color: white;}
+
+#formmessage {width: 75%;
+			height: 200px;}
+
+#formd {width: 75%;}
+
+#formemail {width: 75%;}
+
+.formname {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+color: #777777}
+
+h2 {font-weight: bold;
+		font-family: 'georgia', times, "times new roman", serif;
+		color: #4aaaa5;
+		border-bottom-color: solid;
+		padding-left: 40px}
+
+#connects {float: left;
+		overflow: auto;
+		border-style: solid;
+		border-color: #dddddd;
+		position: relative;
+		width: 250px;
+		left: 750px;
+		bottom: 490px;
+		padding: 20px;
+		padding-top: 10px;
+		background-color: white;}
+
+#footer {width: 1400px;
+	text-align: center;
+		overflow: auto;}
+
+#haram {width: 30%;
+		height: 30%;
+		float: left;
+		overflow: auto;
+		padding-left: 20px;}
+
+#haramt {position: relative;
+		right: 120px;
+		top: 100px;
+		color: white;
+		background-color: teal;
+		width:230px;
+		font-size: 14px;
+		text-align: center;
+		margin-left: 20px;
+		border-left: 20px;}
+
+#nioh {width: 33%;
+		height: 100px;
+		padding-left: 60px;
+		padding-bottom: 15px;
+		}
+#nioht {position: relative;
+		left: 240px;
+		bottom: 75px;
+		color: white;
+		width: 110px;
+		background-color: teal;}
+
+#trivia {width: 33%;
+		height: 33%;
+		float: left;
+		padding-left: 20px;
+		overflow: auto;}
+
+#triviat {position: relative;
+		right: 130px;
+		top: 100px;
+		color: white;
+		background: #4aaaa5;
+		width: 300px;
+		height: 20px;
+		text-align: center;
+		padding-left: 10px;}
+
+#rutgers {width: 33%;
+		height: 33%;
+		padding-left: 60px;}
+
+#rutgerst {position: relative;
+		left: 240px;
+		bottom: 20px;
+		color: white;
+		width: 200px;
+		background-color: teal;
+		}
+
+#music {width: 33%;
+		height: 33%;
+		padding-left: 10px;}
+
+#musict {position: relative;
+		left: 40px;
+		bottom: 55px;
+		width: 110px;
+		background-color: teal;
+		color: white;
+		text-align: center;}
+
+#portfolio {border-style: solid;
+			overflow: auto;
+			width: 470px;
+			height: 800px;
+			position: relative;
+			left: 150px;
+			border-color: #dddddd;
+			background-color: white;}
+
+#hthree {color: #4aaaa5;
+	font-family: 'georgia', times, 'times new roman', serif;
+	font-size: 20px;
+	position: relative;
+	bottom: 200px;
+	background-color: white;
+	top:-10px;
+	right: 20px;}
+
+#connectthr {float: left;
+		overflow: auto;
+		border-style: solid;
+		border-color: #dddddd;
+		position: relative;
+		width: 250px;
+		left: 825px;
+		bottom: 800px;
+		padding: 20px;
+		padding-top: 10px;
+		background-color: white;}
+
+li {
+	display: inline;
+}
